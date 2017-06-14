@@ -13,10 +13,10 @@ people:
   pic: 1
   position: President
   social:
-    - title: twitter
-      url: http://twitter.com/kabayomi007
-    - title: facebook
-      url: vk.com/kabayomi
+    - title: fa-university
+      url: http://kabayomi.info
+    - title: fa-vk
+      url: http://vk.com/kabayomi
     - title: github
       url: http://github.com/kabayomi
     - title: linkedin
@@ -26,8 +26,8 @@ people:
   pic: 2
   position: Public Relations Officer
   social:
-    - title: twitter
-      url: #
+    - title: fa-vk
+      url: https://vk.com/nastya_sitalo
     - title: facebook
       url: #
     - title: linkedin
@@ -37,12 +37,12 @@ people:
   pic: 3
   position: VP
   social:
-    - title: twitter
-      url: #
+    - title: fa-vk
+      url: https://vk.com/dosti4luv
     - title: facebook
       url: #
-    - title: google-plus
-      url: #
+    - title: fa-envelope
+      url: mailto:temiloluwa26@gmail.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -51,16 +51,17 @@ social:
   - title: facebook
     url: http://facebook.com/speknrtu
   - title: stack-overflow
-    url: 
-  - title: bitbucket 
-    url: 
+    url:
+  - title: bitbucket
+    url:
   - title: github
     url: http://github.com/kazanspe
 
 # Postal address (add as many lines as necessary)
 address:
   - line: Karl Marx 68
-  - line: Kazan 420068
+  - line: Sibirsky Tract 12
+  - line: Kazan, Russia
 
 # Build settings
 markdown: kramdown
