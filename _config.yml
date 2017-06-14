@@ -1,0 +1,67 @@
+url: https://kazanspe.github.io
+baseurl: /kazanspe/
+
+# Site settings
+title: SPE КНИТУ
+email: speknrtu@gmail.com
+description: "Welcome to the Kazan National Research Technological University SPE Student Chapter."
+
+
+# Team names, titles and social links
+people:
+- name: Abayomi Koyejo
+  pic: 1
+  position: President
+  social:
+    - title: twitter
+      url: http://twitter.com/kabayomi007
+    - title: facebook
+      url: vk.com/kabayomi
+    - title: github
+      url: http://github.com/kabayomi
+    - title: linkedin
+      url: http://www.linkedin.com/in/koyejoabayomi/
+
+- name: Anastasia Sitalo
+  pic: 2
+  position: Public Relations Officer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Ademuwagun Temiloluwa
+  pic: 3
+  position: VP
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://vk.com/kazanspe
+  - title: facebook
+    url: http://facebook.com/speknrtu
+  - title: stack-overflow
+    url: 
+  - title: bitbucket 
+    url: 
+  - title: github
+    url: http://github.com/kazanspe
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Karl Marx 68
+  - line: Kazan 420068
+
+# Build settings
+markdown: kramdown
+permalink: pretty
