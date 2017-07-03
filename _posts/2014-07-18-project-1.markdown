@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Schlumberger for females in the Petroleum Industry
+subtitle: Tyumen
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+date: 24-05-2017
+img: saan-pre.jpg
+thumbnail: saan.jpg
+alt:  
+project-date: 22 May 2017
+client: Schlumberger
+category: Training
+description: Anastasia had the opportunity to be one of the winners of the program organized by Schlumberger for females in the Petroleum Industry. She spent a day at their center in Tyumen learning from top experts in the field.
 
 ---
