@@ -13,8 +13,8 @@ people:
   pic: 1
   position: President
   social:
-    - title: fa-university
-      url: http://kabayomi.info
+    - title: fa-twitter
+      url: http://twitter.com/kabayomi007
     - title: fa-vk
       url: http://vk.com/kabayomi
     - title: github
@@ -28,8 +28,8 @@ people:
   social:
     - title: fa-vk
       url: https://vk.com/nastya_sitalo
-    - title: facebook
-      url: #
+    - title: fa-instagram
+      url: https://www.instagram.com/ann_sitalo/"
     - title: linkedin
       url: #
 
@@ -40,9 +40,9 @@ people:
     - title: fa-vk
       url: https://vk.com/dosti4luv
     - title: facebook
-      url: #
-    - title: fa-envelope
-      url: mailto:temiloluwa26@gmail.com
+      url: https://fb.com/dosti4luv
+    - title: fa-instagram
+      url: https://instagram.com/dosti4luv
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -50,10 +50,8 @@ social:
     url: http://vk.com/kazanspe
   - title: facebook
     url: http://facebook.com/speknrtu
-  - title: stack-overflow
-    url:
-  - title: bitbucket
-    url:
+  - title: fa-instagram
+    url: https://vk.com/fnnk.kazan
   - title: github
     url: http://github.com/kazanspe
 
