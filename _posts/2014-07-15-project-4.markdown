@@ -4,12 +4,11 @@ subtitle: Kazan
 layout: default
 modal-id: 4
 date: 15-02-2017
-img: kazan-pre.jpg
-thumbnail: kazan.jpg
+img: kazan.jpg
+thumbnail: kazan-pre.jpg
 alt: 
 project-date: Febuary 201
 client: KFU Chapter
 category: Conference
-description: The Oilman academy is a unique program specially designed form students. It covers the whole chain in the petroleum industry from exploration to drilling, production and transportation and also refinnig and delivery. Students have the chance of conecting with International Experts from around the world via live webinars and in-person meetings. At the end of the program participants recives certificates of participation.
-
+description: The conference was held in the beautiful city of Kazan where student from all over Russia and oversea gathered. The program included a scientific paper contest, a case competition and petroleum game "Oil Challenge". Our students participated with prizes in the Refining Section(3rd place), Oil and Gas Field Development (1st place) and in the petroleum game Oil Challenge (2nd and 3rd place) and Petroleum Case competition (1st place).
 ---
