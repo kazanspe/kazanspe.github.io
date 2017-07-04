@@ -5,20 +5,19 @@ layout: default
 modal-id: 2
 date: 14-07-2017
 img: ufa.jpg
-thumbnail: ufa-preview.jpg
+thumbnail: ufa-pre.jpg
 alt: 
 project-date: May 2017
 client: BashSU SPE Chapter
 category: Conference
 description: SPE Black Gold Symposium was held in the beautiful city of Ufa from the 10th till 12th of May 2017. The conference was attended by 95 participants from different countries from arround the world including: Armenia, Kazakhstan, Indonesia, Uzbekistan, India, Algiers, Ghana, Ukraina, Egypt, Nigeria etc.
 The first day of the conference a team building event was organized to acquaint participants with one another and an excursion around the city was also organized to relieve the stress of travelling. 
-Things got serious on the second day as the conference started in full. Students presented their research work in the differen sections available after which there was the SPE chapter's official round table and a technical session. Student also had the opportunity of meeting with company executives and hearing directly from them. The petroleum olympaid game "Oil Barrel " and a case competition also took place. At the end of the day the awards were presented to the winners.\n
-The following students were awarded from our chapter:\n
-Temiloluwa Ademuwagun - 1st Place in Refining and Transprtation Section \n
-Anastasia Sitalo - 2nd Place in Refining and Transportation Session \n
-Abayomi Koyejo - 1st place Oil Barrel \n
-Abayomi, Anastasia, Temiloluwa - First place Petroleum Case Competition. \n 
-
+Things got serious on the second day as the conference started in full. Students presented their research work in the differen sections available after which there was the SPE chapter's official round table and a technical session. Student also had the opportunity of meeting with company executives and hearing directly from them. The petroleum olympaid game "Oil Barrel " and a case competition also took place. At the end of the day the awards were presented to the winners.
+The following students were awarded from our chapter:
+Temiloluwa Ademuwagun - 1st Place in Refining and Transprtation Section
+Anastasia Sitalo - 2nd Place in Refining and Transportation Session 
+Abayomi Koyejo - 1st place Oil Barrel
+Abayomi, Anastasia, Temiloluwa - First place Petroleum Case Competition. 
 The third day was spent on a field trip to interesting natural sights of the repulic.
 
 ---
