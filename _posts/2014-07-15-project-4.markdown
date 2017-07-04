@@ -1,15 +1,21 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: International Student Scientific Conference Kazan UpExPro
+subtitle: Kazan
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+date: 15-02-2017
+img: kazan.png
+thumbnail: kazan-pre.png
+alt: 
+project-date: Febuary 201
+client: KFU Chapter
+category: Conference
+description: The conference was held in the beautiful city of Kazan where student from all over Russia and oversea gathered. The program included a scientific paper contest, a case competition and petroleum game "Oil Challenge". Our students participated with the following results:
+
+1st place Oil and Gas Field Development: Mohammed Al-yusufi
+1st place Petroleum Case Competition: Abayomi Koyejo
+2nd Place Oil Challenge: Abayomi Koyejo
+3rd place refining section: Anastasia Sitalo
+3rd place Oil Challenge: Evgeny Kharitonov
 
 ---
