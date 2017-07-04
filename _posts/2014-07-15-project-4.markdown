@@ -10,10 +10,6 @@ alt:
 project-date: Febuary 201
 client: KFU Chapter
 category: Conference
-description: The conference was held in the beautiful city of Kazan where student from all over Russia and oversea gathered. The program included a scientific paper contest, a case competition and petroleum game "Oil Challenge". Our students participated with the following results: 1st place Oil and Gas Field Development: Mohammed Al-yusufi
-1st place Petroleum Case Competition: Abayomi Koyejo
-2nd Place Oil Challenge: Abayomi Koyejo
-3rd place refining section: Anastasia Sitalo
-3rd place Oil Challenge: Evgeny Kharitonov
+description: The Oilman academy is a unique program specially designed form students. It covers the whole chain in the petroleum industry from exploration to drilling, production and transportation and also refinnig and delivery. Students have the chance of conecting with International Experts from around the world via live webinars and in-person meetings. At the end of the program participants recives certificates of participation.
 
 ---
