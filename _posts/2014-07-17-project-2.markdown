@@ -11,3 +11,4 @@ project-date: May 2017
 client: BashSU SPE Chapter
 category: Conference
 description: SPE Black Gold Symposium was held in the beautiful city of Ufa from the 10th till 12th of May 2017. The conference was attended by 95 participants from different countries from around the world including: Armenia, Kazakhstan, Indonesia, Uzbekistan, India, Algiers, Ghana, Ukraina, Egypt, Nigeria.
+---
