@@ -4,8 +4,8 @@ subtitle: Kazan
 layout: default
 modal-id: 4
 date: 15-02-2017
-img: kazan.jpg
-thumbnail: kazan-pre.jpg
+img: kazan-pre.jpg
+thumbnail: kazan.jpg
 alt: 
 project-date: Febuary 201
 client: KFU Chapter
